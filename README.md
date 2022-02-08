@@ -1,1 +1,1 @@
-# SatoshiNakamoto Day
+# SatoshiNakamoto
