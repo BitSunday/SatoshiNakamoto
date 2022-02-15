@@ -1,3 +1,3 @@
 ## Satoshi Nakamoto
 
-<img src = img/sakoshinakamoto.jpg>
+<center><img src=img/sakoshinakamoto.jpg></center>
